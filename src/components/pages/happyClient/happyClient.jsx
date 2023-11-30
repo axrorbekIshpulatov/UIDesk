@@ -1,4 +1,4 @@
 export const HappyClient = () => {
-    return <div>Happy Client</div>;
+    return <div></div>;
   };
   

@@ -1,4 +1,4 @@
 export const Cooker = () => {
-    return <div>Cooker</div>;
+    return <div></div>;
   };
   
