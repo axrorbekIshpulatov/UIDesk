@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Sharp Sans";
+  src: url("/public/fonts/Sharp-Sans.otf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Sharp Sans";
+  src: url("/public/fonts/SharpSansBold.otf");
+  font-weight: 400;
+}

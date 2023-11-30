@@ -1,0 +1,10 @@
+export { Navbar } from "./navbar";
+export { Hero } from "./hero";
+export { WhyChoose } from './whyChoose'
+export { AboutUs } from './aboutUs'
+export { FreshVegetables } from './freshVegetables'
+export { Cooker } from './cooker'
+export { Special } from './special'
+export { HappyClient } from './happyClient'
+export { Subscribe } from './subscribe'
+export { Footer } from './footer'
