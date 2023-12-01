@@ -10,7 +10,7 @@ export const ClientCard = ({ avatar, name, job, description }) => {
           <span>{job}</span>
         </p>
       </div>
-      <PublicP style={"text-[18px] font-sharp-sans px-[25px]"}>
+      <PublicP style={"font-sharp-sans px-[25px] text-[17px]"}>
         {description}
       </PublicP>
     </div>
